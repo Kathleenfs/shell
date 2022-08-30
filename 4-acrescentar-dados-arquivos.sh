@@ -1,0 +1,1 @@
+echo "Acrescentando informação no arquivo">> teste.txt
